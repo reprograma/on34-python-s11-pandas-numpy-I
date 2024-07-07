@@ -4,7 +4,7 @@
 
 # Tratamento de dados utilizando pandas e numpy - parte 1
 
-Turma Online On34 | Python | Semana 09 | 2024 | <a href="https://www.linkedin.com/in/daniele-fernandes-rodrigues-junior-8244bb24/" target="_blank" rel="noopener noreferrer">Professora Daniele Junior</a>
+Turma Online On34 | Python | Semana 11 | 2024 | <a href="https://www.linkedin.com/in/daniele-fernandes-rodrigues-junior-8244bb24/" target="_blank" rel="noopener noreferrer">Professora Daniele Junior</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
